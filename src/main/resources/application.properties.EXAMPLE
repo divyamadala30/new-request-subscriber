@@ -1,0 +1,12 @@
+# spring data neo4j
+spring.data.neo4j.username=
+spring.data.neo4j.password=
+spring.data.neo4j.uri=
+
+# nats server
+nats.clusterid=
+nats.clientid=
+nats.url=
+
+# messaging configuration
+cmo.new_request_topic=
